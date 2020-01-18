@@ -1,5 +1,5 @@
 body {
-    background: url(SC\ Gum\ Picture.jpg) no-repeat center center fixed;
+    background: url(SC\ Gum\ Picture.jpg) center center no-repeat fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -15,25 +15,15 @@ body {
 .homepagerow {
     height: 700px;
    
-}
+} 
 .firsthomepagerow{
-    height: 600px;
-}
-.homecard{
-    background-color: transparent;
-    background: transparent;
-}
+    height: 500px;
+} 
+
 h1{
     color: whitesmoke;
 }
 h4 {
     color: whitesmoke;
 }
-/* .headerrow {
-    height: 500px;
-    background: url(SC\ Header\ Pic.jpg) no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-} */
+
