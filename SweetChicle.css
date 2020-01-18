@@ -12,3 +12,28 @@ body {
     font-size: 125px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+.homepagerow {
+    height: 700px;
+   
+}
+.firsthomepagerow{
+    height: 600px;
+}
+.homecard{
+    background-color: transparent;
+    background: transparent;
+}
+h1{
+    color: whitesmoke;
+}
+h4 {
+    color: whitesmoke;
+}
+/* .headerrow {
+    height: 500px;
+    background: url(SC\ Header\ Pic.jpg) no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+} */
