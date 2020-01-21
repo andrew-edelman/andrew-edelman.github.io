@@ -12,18 +12,18 @@ body {
     font-size: 125px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.homepagerow {
+/* .homepagerow {
     height: 700px;
    
-} 
+}  */
 .firsthomepagerow{
     height: 500px;
 } 
 
-h1{
+.card-title {
     color: whitesmoke;
 }
-h4 {
+.card-text {
     color: whitesmoke;
 }
 
