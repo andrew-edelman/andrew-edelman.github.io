@@ -14,4 +14,11 @@ body {
     color: whitesmoke;
 }
 
-
+.display-4{
+    color: whitesmoke;
+    font-weight: bolder;
+}
+.lead{
+    color: whitesmoke;
+    font-weight: bolder;
+}
