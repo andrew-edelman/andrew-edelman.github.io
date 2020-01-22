@@ -5,20 +5,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
-.carouselopacity {
-    opacity: 0.2;
-}
-.carouselheadline {
-    font-size: 125px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-/* .homepagerow {
-    height: 700px;
-   
-}  */
-.firsthomepagerow{
-    height: 500px;
-} 
+
 
 .card-title {
     color: whitesmoke;
