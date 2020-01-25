@@ -4,8 +4,12 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: 'Oswald';
+    color: whitesmoke;
 }
-
+.navbar {
+    font-family: 'Staatliches';
+}
 
 .card-title {
     color: whitesmoke;
@@ -24,9 +28,4 @@ body {
 }
 .aboutdescription{
     color: whitesmoke;
-}
-.bookinginfo{
-    color: whitesmoke;
-    font-weight: bold;
-    background-color: rgba(0, 0, 0, 0.5);
 }
