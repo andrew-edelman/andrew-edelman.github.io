@@ -29,3 +29,6 @@ body {
 .aboutdescription{
     color: whitesmoke;
 }
+.navbar-text{
+    font-size: 25px;
+}
