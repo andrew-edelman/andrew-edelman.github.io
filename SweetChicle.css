@@ -1,17 +1,26 @@
-body {
-    background: url(SC\ Gum\ Picture.jpg) center center no-repeat fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    font-family: 'Oswald';
-    color: whitesmoke;
-    @media only screen and (max-width: 1242px) {
+@media only screen and (max-width: 414px) {
+    body {
         background: url(SC\ Stairs.jpg) center center no-repeat fixed;
-        
-    }
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        font-family: 'Oswald';
+        color: whitesmoke;
+              
+        }
 }
-
+@media only screen and (min-width: 415px) {
+    body {
+        background: url(SC\ Gum\ Picture.jpg) center center no-repeat fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        font-family: 'Oswald';
+        color: whitesmoke;
+        }
+}
 
 .navbar {
     font-family: 'Staatliches';
