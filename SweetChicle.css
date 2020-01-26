@@ -6,7 +6,7 @@ body {
     background-size: cover;
     font-family: 'Oswald';
     color: whitesmoke;
-    @media only screen and (max-width: 414px) {
+    @media only screen and (max-width: 1242px) {
         background: url(SC\ Stairs.jpg) center center no-repeat fixed;
         
     }
